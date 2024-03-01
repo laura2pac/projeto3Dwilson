@@ -45,4 +45,7 @@ body{
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--botao-ativo1);
+    border-left: 2px solid var(--botao-ativo1);
+    border-right: 2px solid var(--botao-ativo1);
+    border-top: none;
  }
