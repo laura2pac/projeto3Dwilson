@@ -40,6 +40,5 @@ function calculaTempo(tempoObjetivo1){
         + horas + "horas"
         + minutos + "minutos"
         + segundos + "segundos"
-
 }
 
