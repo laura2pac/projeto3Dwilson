@@ -11,10 +11,11 @@
     --botao-inativo2:rgba(129, 110, 219, 0.5);
     --botao-ativo1:rgba(35, 121, 219, 1);
     --botao-ativo2:rgba(129, 110, 219, 1);
+    --branco:#FFFFFF;
 }
 body{
     background-color: var(--cor-de-fundo);
-    color: var(--azul3);
+    color: var(--branco);
     font-family: 'Chakra Petch','Sans-Serif';
 }
 .conteudo-principal{
