@@ -14,7 +14,7 @@
     --branco:#FFFFFF;
 }
 body{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--lilais);
     color: var(--branco);
     font-family: 'Chakra Petch','Sans-Serif';
 }
